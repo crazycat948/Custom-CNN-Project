@@ -1,3 +1,6 @@
+[Full Research Paper](CS%204375%20Project%20Report.pdf)
+
+
 Baseline: LeNet vs CustomCNN Comparison
 ----------------------------------------
 
